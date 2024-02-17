@@ -1,0 +1,3 @@
+C:/Users/fabol/OneDrive/Escritorio/Programming/winter/inheritance design/w4/out/build/x64-Debug/CMakeFiles/w4.dir
+C:/Users/fabol/OneDrive/Escritorio/Programming/winter/inheritance design/w4/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/fabol/OneDrive/Escritorio/Programming/winter/inheritance design/w4/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
